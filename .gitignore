@@ -27,3 +27,6 @@ Saved/
 
 # Assistant session state (not project content)
 .claude/
+
+# macOS Finder metadata
+.DS_Store
